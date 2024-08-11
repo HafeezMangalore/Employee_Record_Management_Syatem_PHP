@@ -1,5 +1,4 @@
 
-```markdown
 # Employee Record Management System (ERMS)
 
 ## Overview
@@ -71,6 +70,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Contact
 
-For any inquiries or issues, please contact [your-email@example.com](hafeezmangalore7@gmail.com).
+For any inquiries or issues, please contact [your-email@example.com](mailto:hafeezmangalore7@gmail.com).
 
 ---
